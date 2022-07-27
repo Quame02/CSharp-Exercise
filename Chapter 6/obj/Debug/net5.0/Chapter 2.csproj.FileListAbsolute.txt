@@ -1,0 +1,16 @@
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\bin\Debug\net5.0\Chapter 2.exe
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\bin\Debug\net5.0\Chapter 2.deps.json
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\bin\Debug\net5.0\Chapter 2.runtimeconfig.json
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\bin\Debug\net5.0\Chapter 2.runtimeconfig.dev.json
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\bin\Debug\net5.0\Chapter 2.dll
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\bin\Debug\net5.0\ref\Chapter 2.dll
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\bin\Debug\net5.0\Chapter 2.pdb
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\obj\Debug\net5.0\Chapter 2.csproj.AssemblyReference.cache
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\obj\Debug\net5.0\Chapter 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\obj\Debug\net5.0\Chapter 2.AssemblyInfoInputs.cache
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\obj\Debug\net5.0\Chapter 2.AssemblyInfo.cs
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\obj\Debug\net5.0\Chapter 2.csproj.CoreCompileInputs.cache
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\obj\Debug\net5.0\Chapter 2.dll
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\obj\Debug\net5.0\ref\Chapter 2.dll
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\obj\Debug\net5.0\Chapter 2.pdb
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Csharp Exercise\Chapter 2\obj\Debug\net5.0\Chapter 2.genruntimeconfig.cache
